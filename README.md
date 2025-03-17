@@ -34,7 +34,7 @@ Make sure you've completed the following:
 3. ✅ **Course Materials Access**:
    - Live Coding : [HelloWorld Exercise](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-01_Welcome/tree/main/LiveCoding)
    - GitHub Class Room [Template Exercise](https://classroom.github.com/a/_oOFHbCF)
-   - Access today's slides for Day_2: [W1-D1_Introduction to Numeral Systems.pdf](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-01_Welcome/blob/main/W1-D1_Introduction%20to%20Numeral%20systems.pdf)
+   - Access slides for Tomorrow Day-02: [W1-D1_Introduction to Numeral Systems.pdf](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-01_Welcome/blob/main/W1-D1_Introduction%20to%20Numeral%20systems.pdf)
 
 ---
 
