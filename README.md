@@ -8,13 +8,7 @@
 - Set up essential tools: GitHub and IntelliJ IDEA.
 - Get familiarized with accessing course materials.
 
-### 📚 Topics Covered Briefly Today:
-- **Decimal Numeral System** (base-10)
-- **Binary Numeral System** (base-2)
-- **Octal Numeral System** (base-8)
-- **Hexadecimal Numeral System** (base-16)
 
-_(Note: Detailed explanations and exercises start from Day 2.)_
 
 ---
 
