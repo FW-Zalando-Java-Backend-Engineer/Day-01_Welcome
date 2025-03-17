@@ -1,4 +1,4 @@
-# 🚀 Introduction to Numeral Systems - Day 1
+# 🚀 Welcome day - Day 1
 
 ---
 
