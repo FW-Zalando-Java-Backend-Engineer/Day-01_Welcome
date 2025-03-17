@@ -32,7 +32,9 @@ Make sure you've completed the following:
    - Follow the installation guide shown during the session.
 
 3. ✅ **Course Materials Access**:
-   - Access today's slides: [W1-D1_Introduction to Numeral Systems.pdf](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-01_Welcome/blob/main/W1-D1_Introduction%20to%20Numeral%20systems.pdf)
+   - Live Coding : [HelloWorld Exercise](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-01_Welcome/tree/main/LiveCoding)
+   - GitHub Class Room [Template Exercise](https://classroom.github.com/a/_oOFHbCF)
+   - Access today's slides for Day_2: [W1-D1_Introduction to Numeral Systems.pdf](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-01_Welcome/blob/main/W1-D1_Introduction%20to%20Numeral%20systems.pdf)
 
 ---
 
