@@ -5,7 +5,6 @@
 ## 📅 Today's Session (Day 1)
 
 ### ✅ Objectives:
-- Understand the importance of numeral systems.
 - Set up essential tools: GitHub and IntelliJ IDEA.
 - Get familiarized with accessing course materials.
 
